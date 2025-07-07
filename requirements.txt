@@ -4,3 +4,4 @@ tensorflow
 pickle
 numpy
 scikit-learn
+python-3.10
